@@ -2,7 +2,6 @@
 
 Task: Implement table sorting in ASC order, by clicking on table headers. 
 
-
 Start table:
 
 ![Preview](./src/images/preview.png)
