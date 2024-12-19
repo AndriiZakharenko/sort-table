@@ -1,22 +1,28 @@
-1. Replace `<your_account>` with your Github username in the link
-    - [DEMO LINK](https://AndriiZakharenko.github.io/js_sort_table_DOM/)
-2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
-    - Run `npm run test` command to test your code;
-    - Run `npm run test:only -- -n` to run fast test ignoring linter;
-    - Run `npm run test:only -- -l` to run fast test with additional info in console ignoring linter.
+# Sort of employees table
 
-### Task: Sort of employees table
+### Description
 
-Hi! In previous tasks, you already implemented table sort by salary. Today task is the same but with using browser events.
+- Implemented table sorting in ASC order, by clicking on table headers
 
-Your task: Implement table sorting in ASC order, by clicking on table headers. 
+### Stack
 
-As always, all the necessary styles have already been written for you, you do not need to change the layout or styles in this task.
+- HTML (BEM)
+- CSS
+- JS
 
-Start table:
+### Tools
 
-![Preview](./src/images/preview.png)
+- ESlint
+- Prettier
+- Cypress
+- Mochawesome
+- Parcel
 
-##### Implement table sorting by clicking on the title
-- Clicking on one of the table headers should sort the table rows in ASC order.
+### Demo links
+
+- [Demo](https://AndriiZakharenko.github.io/sort-table/)
+
+### Reference Image
+
+<img src="./src/images/preview.png" alt="reference image" width="300px" />
 
