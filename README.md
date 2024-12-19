@@ -1,15 +1,28 @@
-### Task: Sort of employees table
+# Sort of employees table
 
-Task: Implement table sorting in ASC order, by clicking on table headers. 
+### Description
 
-Start table:
+- Implemented table sorting in ASC order, by clicking on table headers
 
-![Preview](./src/images/preview.png)
+### Stack
 
-##### Implement table sorting by clicking on the title
-- Clicking on one of the table headers should sort the table rows in ASC order.
+- HTML (BEM)
+- CSS
+- JS
 
-## Demo Links
+### Tools
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/js_sort_table_DOM/)
+- ESlint
+- Prettier
+- Cypress
+- Mochawesome
+- Parcel
+
+### Demo links
+
+- [Demo](https://AndriiZakharenko.github.io/sort-table/)
+
+### Reference Image
+
+<img src="./src/images/preview.png" alt="reference image" width="300px" />
 
