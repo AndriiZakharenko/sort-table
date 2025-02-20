@@ -1,28 +1,30 @@
-# Sort of employees table
+# Sort of Employees Table
 
-### Description
+## 🎮 About the Project
+This project implements an interactive table where users can sort employee data in ascending order by clicking on table headers.
 
-- Implemented table sorting in ASC order, by clicking on table headers
+## 🚀 Tech Stack
+- **HTML** (BEM methodology for structured markup)
+- **CSS** (For styling and layout)
+- **JavaScript** (Handles sorting logic)
 
-### Stack
+## 🛠️ Tools & Dependencies
+- **ESLint** – Ensuring code quality  
+- **Prettier** – Code formatting for readability  
+- **Cypress** – End-to-end testing  
+- **Mochawesome** – Test reporting  
+- **Parcel** – Web application bundler  
 
-- HTML (BEM)
-- CSS
-- JS
+## 📌 Features
+✅ Clickable headers for sorting data  
+✅ Sorts employee table in ascending order  
+✅ Enhances data visualization and user experience  
 
-### Tools
+## 🌐 Demo
+🔗 [Live Demo](https://AndriiZakharenko.github.io/sort-table/)
 
-- ESlint
-- Prettier
-- Cypress
-- Mochawesome
-- Parcel
-
-### Demo links
-
-- [Demo](https://AndriiZakharenko.github.io/sort-table/)
-
-### Reference Image
-
+## 📸 Reference Image  
 <img src="./src/images/preview.png" alt="reference image" width="300px" />
 
+## 📜 License
+This project is forked from 💻 [Mate Academy](https://github.com/mate-academy/js_sort_table_DOM)
